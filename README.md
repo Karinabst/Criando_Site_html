@@ -1,4 +1,6 @@
 Primeiro site html
+🎯 Tecnologias Utilizadas: 
+- HTML
 
 <!DOCTYPE html>
 <html lang="en">
